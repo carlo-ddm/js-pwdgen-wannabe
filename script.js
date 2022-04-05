@@ -4,6 +4,6 @@ const color = prompt ('Colore preferito');
 
 console.log (firstName);
 console.log (lastName);
-console.log (typeof color);
+console.log (color);
 
 document.getElementById("elementoPerStampareMessaggio").innerHTML = firstName + lastName + color
